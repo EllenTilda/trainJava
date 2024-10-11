@@ -39,4 +39,6 @@ public class TrimM {
  * 6) Undersök metoderna "equals(..)" och "equalsIgnoreCase(..)"
  * 7) Man kan jämföra heltal med 6 == 6 t.ex. Googla och fundera på varför "apa" == "apa" inte är en bra idé (för där ska man använda equals(..))
  * 8) Komplettera metoden "generateRandomStringOfLength" med en sats så att den blir fungerande.
+ *
+ * PS. Såg nu att du redan gjort många av dess :(
  */
